@@ -102,7 +102,7 @@ The system operates in three stages:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/neuro-symbolic-ai-system.git
+   git clone [https://github.com/your-username/neuro-symbolic-ai-system.git](https://github.com/joaovictorcamargo/AI-Agents-as-Neuro-Symbolic-System.git)
    ```
 2. Navigate to the project folder:
    ```bash
